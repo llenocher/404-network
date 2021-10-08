@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # ping ip address
 
-ping $1
+ping "$1"
